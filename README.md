@@ -104,6 +104,7 @@ Tshirt
 
 ## Freelancing
 
+- [Bing Pros](https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us) Bing Pros is a gig service platform that connects Bing Search users to providers who want higher profit for their services.
 - [Upwork](https://www.upwork.com/) Upwork expertly connects professionals and agencies to businesses seeking specialized talent.
 - [Freelancer](https://www.freelancer.com/) Find The Perfect Freelance Services For Your Business
 - [Fiverr](https://www.fiverr.com/) Hire expert freelancers for any job, online
